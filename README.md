@@ -22,17 +22,24 @@ A list of linux tools I find interesting, mainly terminal tools but not only
 * bash - most used and compatible shell [https://www.zsh.org/]
 * fish - a small and modern shell not POSIX compatible [https://fishshell.com/]
 * nushell - a modern shell data oriented with intensive use of tables [https://www.nushell.sh/]
+* elvis - a modern shell [https://elv.sh/]
 * ksh - classic korn shell [http://www.kornshell.com/]
 * ksh93 - a extended version of korn shell [http://www.kornshell.com/doc/ksh93.html]
 * tcsh - a extended version of classic c shell [https://www.tcsh.org/]
 * dash - a light version of classic sh mostly used for system scripts, not bash compatible [https://wiki.archlinux.org/title/Dash]
-* scshell
+* scshell - scheme shell [https://scsh.net/]
+* xonsh - python shell [https://xon.sh/]
+* rush - ruby shell [https://win-bash.sourceforge.net/]
+* rc - the plan 9 shell [https://github.com/rakitzis/rc]
+* sash - statically linked shell [https://members.tip.net.au/~dbell/]
 
 ### tools
 
-* vifm  - file browser using vi keys
-* felix - file browser using vi keys, simpler than vifm
-* tldr  - info about commands with frequently use examples, less info than man but examples of most common uses
+* vifm  - file browser using vi keys [https://vifm.info/]
+* xplr - file manager [https://github.com/sayanarijit/xplr]
+* felix - file browser using vi keys, simpler than vifm [https://github.com/kyoheiu/felix]
+* yazi - terminal file manager [https://github.com/sxyazi/yazi]
+* tldr  - info about commands with frequently use examples [https://github.com/tldr-pages/tldr]
 * screen - terminal multiplexer [https://www.gnu.org/software/screen/]
 * tmux - terminal multiplexer [https://github.com/tmux/tmux/wiki]
 * lsd - ls replacement [https://github.com/lsd-rs/lsd]
@@ -121,6 +128,7 @@ A list of linux tools I find interesting, mainly terminal tools but not only
 * lazydocker - docker manager with TUI [https://github.com/jesseduffield/lazydocker]
 * dockly - docker manager with TUI [https://lirantal.github.io/dockly/]
 * NeoMutt - terminal mail agent [https://neomutt.org/]
+* himalaya - terminal mail agent [https://github.com/pimalaya/himalaya]
 * Newsboat - terminal rss reader [https://newsboat.org/]
 * nb - a command line and local web note app with support to text formats [https://xwmx.github.io/nb/]
 * gping - ping replacement with the output displayed in a graph [https://github.com/orf/gping]
@@ -164,7 +172,61 @@ A list of linux tools I find interesting, mainly terminal tools but not only
 * profanity - xmpp terminal client [https://profanity-im.github.io/]
 * w3m - terminal web browser [https://w3m.sourceforge.net/]
 * browsh - terminal web browser [https://www.brow.sh/]
-
+* rustscan - port scanner [https://github.com/bee-san/RustScan]
+* television - fuzzy search with TUI [https://github.com/alexpasmantier/television]
+* atuin - history replacement [https://atuin.sh/]
+* zoxide - cd replacement [https://github.com/ajeetdsouza/zoxide]
+* yadm - dot files manager [https://yadm.io/]
+* chezmoi - dot files manager [https://github.com/pimalaya/himalaya]
+* chafa - terminal picture viewer [https://hpjansson.org/chafa/]
+* erdtree - tree file viewer and space analyzer [https://github.com/solidiquis/erdtree]
+* sleuth kit - kit for forensic analysis [https://www.sleuthkit.org/]
+* radare - portable reversing framework [https://rada.re/r/] [https://rada.re/n/]
+* Volatility – advanced memory forensics framework [https://volatilityfoundation.org/]
+* dcfldd - dd replacement oriented to forensics [https://dcfldd.sourceforge.net/]
+* jomon - network forensics and passive sniffer [https://github.com/jo-lund/jomon]
+* rdd – forensic copy software [https://sourceforge.net/projects/rdd/]
+* tomb - secrets manager [https://dyne.org/software/tomb/]
+* gpg - [https://www.gnupg.org/]
+* horcrux - file splitter and encrypter [https://github.com/jesseduffield/horcrux]
+* kryptor - file encrypter and signing multiplatform [https://www.kryptor.co.uk/]
+* picokrypt - file encrypter multiplatform [https://github.com/Picocrypt/CLI] [https://github.com/Picocrypt]
+* rage - age replacement encryption tool [https://github.com/str4d/rage]
+* ccrypt - secure encryption and decryption of files and streams multiplatform [https://ccrypt.sourceforge.net/]
+* encpipe - encrypt and decrypt pipes [https://github.com/jedisct1/encpipe]
+* aide - advanced intrusion detection development [https://aide.github.io/]
+* tcpflow - network forensics [https://github.com/simsong/tcpflow]
+* tcpdump - network analysis [https://www.tcpdump.org/]
+* justniffer - network packet sniffer [https://onotelli.github.io/justniffer/]
+* dsniff – collection of tools for network auditing and penetration testing [https://github.com/tecknicaltom/dsniff]
+* sniffglue – secure multithreaded packet sniffer [https://crates.io/crates/sniffglue]
+* sniffer – alternative network traffic sniffer [https://github.com/chenjiandongx/sniffer]
+* nmap - port scanner [https://nmap.org/]
+* rustscan - port scanner [https://github.com/rustscan/RustScan]
+* masscan - port scanner [https://github.com/robertdavidgraham/masscan]
+* naabu - port scanner [https://github.com/projectdiscovery/naabu]
+* turbo-scanner - port scanner [https://github.com/mytechnotalent/turbo-scanner]
+* havn - port scanner [https://github.com/mrjackwills/havn]
+* unimap - only once port scanner [https://github.com/Edu4rdSHL/unimap]
+* rutscan - port scanner
+* netcat - read and write through network [https://netcat.sourceforge.net/]
+* stegify - stenographic hide [https://github.com/DimitarPetrov/stegify]
+* stegano - simple stenographic hide [https://github.com/steganogram/stegano-rs]
+* snow - stenegraphic hide in whitespaces in text lines [https://darkside.com.au/snow/]
+* Stegosuite – steganography tool [https://github.com/osde8info/stegosuite]
+* Steghide - steganography hide data in image and audio with undetectable color-frequency algorithm [https://steghide.sourceforge.net/]
+* outguess - stenographic hide in images [https://github.com/resurrecting-open-source-projects/outguess]
+* wavsteg - stenographic hide in wavs [https://github.com/ragibson/Steganography#WavSteg]
+* stegCracker – steganography brute-force utility [https://github.com/Paradoxis/StegCracker]
+* snowdrop – text watermarking and watermark recovery [https://salsa.debian.org/pkg-security-team/snowdrop]
+* sqlmap – penetration testing tool for sql injection [https://sqlmap.org/]
+* AFL++ – fuzzing Framework [https://aflplus.plus/]
+* wapigi - The web-application vulnerability scanner [https://wapiti-scanner.github.io/]
+* XSSer – detect, exploit and report XSS vulnerabilities [https://github.com/epsylon/xsser]
+* simple fuzzer – a simple fuzzer [http://aaron.bytheb.org/projects/sfuzz]
+* nuclei - vulnerability scanner [https://github.com/projectdiscovery/nuclei]
+* grype - vulnerability scanner [https://github.com/anchore/grype]
+* wavemon - wireless device monitoring [https://github.com/uoaerg/wavemon]
 
 ## window managers
 
@@ -252,6 +314,11 @@ A list of linux tools I find interesting, mainly terminal tools but not only
 * putty  -  [https://www.putty.org/]
 * termius - [https://termius.com/free-ssh-client-for-windows]
 
+## shells
+
+* win-bash - bash for windows [https://win-bash.sourceforge.net/]
+
+
 ## window manager
 
 * komorebi - tiling window manager [https://github.com/LGUG2Z/komorebi]
@@ -271,3 +338,4 @@ A list of linux tools I find interesting, mainly terminal tools but not only
 * whkd - [https://github.com/LGUG2Z/whkd]
 * autohotkey - [https://autohotkey.com/] [https://github.com/AutoHotkey/AutoHotkey]
 * 
+-
