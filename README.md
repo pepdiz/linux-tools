@@ -40,6 +40,7 @@ A list of linux tools I find interesting, mainly terminal tools but not only
 * felix - file browser using vi keys, simpler than vifm [https://github.com/kyoheiu/felix]
 * yazi - terminal file manager [https://github.com/sxyazi/yazi]
 * tldr  - info about commands with frequently use examples [https://github.com/tldr-pages/tldr]
+* tealdeer - tldr replacement [https://github.com/tealdeer-rs/tealdeer]
 * screen - terminal multiplexer [https://www.gnu.org/software/screen/]
 * tmux - terminal multiplexer [https://github.com/tmux/tmux/wiki]
 * lsd - ls replacement [https://github.com/lsd-rs/lsd]
@@ -123,6 +124,7 @@ A list of linux tools I find interesting, mainly terminal tools but not only
 * rargs – xargs + awk with pattern matching support [https://github.com/lotabout/rargs]
 * btop++ - top replacement with TUI [https://github.com/aristocratos/btop]
 * ctop -  top replacement [https://github.com/bcicen/ctop]
+* bottom - system monitoring [https://github.com/ClementTsang/bottom]
 * nnn - a full-featured terminal file manager [https://github.com/jarun/nnn]
 * Zellij - a workspace for developers with TUI [https://zellij.dev/]
 * lazydocker - docker manager with TUI [https://github.com/jesseduffield/lazydocker]
@@ -227,6 +229,8 @@ A list of linux tools I find interesting, mainly terminal tools but not only
 * nuclei - vulnerability scanner [https://github.com/projectdiscovery/nuclei]
 * grype - vulnerability scanner [https://github.com/anchore/grype]
 * wavemon - wireless device monitoring [https://github.com/uoaerg/wavemon]
+* starship - prompt beautify multiplatform [https://starship.rs/]
+* ffmpeg - video editor [https://ffmpeg.org/]
 
 ## window managers
 
