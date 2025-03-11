@@ -142,6 +142,7 @@ A list of linux tools I find interesting, mainly terminal tools but not only
 * up - interactive pipe [https://github.com/akavel/up]
 * bubble tea - library to create TUI [https://github.com/charmbracelet/bubbletea]
 * lip gloss - library to create TUI [https://github.com/charmbracelet/lipgloss]
+* gum - library to create TUI [https://github.com/charmbracelet/gum]
 * weechat - terminal irc [https://weechat.org/]
 * wuzz - an interactive tool for HTTP inspection [https://github.com/asciimoo/wuzz]
 * mdcat - markdown viewer [https://github.com/swsnr/mdcat]
@@ -231,6 +232,9 @@ A list of linux tools I find interesting, mainly terminal tools but not only
 * wavemon - wireless device monitoring [https://github.com/uoaerg/wavemon]
 * starship - prompt beautify multiplatform [https://starship.rs/]
 * ffmpeg - video editor [https://ffmpeg.org/]
+* tshark (aka wireshark-cli) - network traffic analyzer [https://tshark.dev/setup/install/]
+* argc - shell parameter manager similar to optget [https://github.com/sigoden/argc]
+* todo.txt - task list manager [https://github.com/todotxt/todo.txt-cli/]
 
 ## window managers
 
@@ -341,5 +345,7 @@ A list of linux tools I find interesting, mainly terminal tools but not only
 
 * whkd - [https://github.com/LGUG2Z/whkd]
 * autohotkey - [https://autohotkey.com/] [https://github.com/AutoHotkey/AutoHotkey]
-* 
--
+  
+## tools
+
+* tinytask - macro recording and compiler [https://www.tinytask.net/]
