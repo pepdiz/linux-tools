@@ -267,6 +267,7 @@ A list of linux tools I find interesting, mainly terminal tools but not only
 ## X tools
 
 * conky - system monitor for X [https://github.com/brndnmtthws/conky]
+* xdotool - X, mouse and keyboard events by programming [https://github.com/jordansissel/xdotool]
 
 ## web browsers
 
