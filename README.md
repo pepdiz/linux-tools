@@ -38,6 +38,7 @@ A list of linux tools I find interesting, mainly terminal tools but not only
 * vifm  - file browser using vi keys [https://vifm.info/]
 * xplr - file manager [https://github.com/sayanarijit/xplr]
 * felix - file browser using vi keys, simpler than vifm [https://github.com/kyoheiu/felix]
+* ranger - file browser using vi keys [https://ranger.github.io/]
 * yazi - terminal file manager [https://github.com/sxyazi/yazi]
 * tldr  - info about commands with frequently use examples [https://github.com/tldr-pages/tldr]
 * tealdeer - tldr replacement [https://github.com/tealdeer-rs/tealdeer]
@@ -126,7 +127,7 @@ A list of linux tools I find interesting, mainly terminal tools but not only
 * ctop -  top replacement [https://github.com/bcicen/ctop]
 * bottom - system monitoring [https://github.com/ClementTsang/bottom]
 * nnn - a full-featured terminal file manager [https://github.com/jarun/nnn]
-* Zellij - a workspace for developers with TUI [https://zellij.dev/]
+* zellij - a workspace for developers with TUI [https://zellij.dev/]
 * lazydocker - docker manager with TUI [https://github.com/jesseduffield/lazydocker]
 * dockly - docker manager with TUI [https://lirantal.github.io/dockly/]
 * NeoMutt - terminal mail agent [https://neomutt.org/]
@@ -180,12 +181,13 @@ A list of linux tools I find interesting, mainly terminal tools but not only
 * atuin - history replacement [https://atuin.sh/]
 * zoxide - cd replacement [https://github.com/ajeetdsouza/zoxide]
 * yadm - dot files manager [https://yadm.io/]
+* dotdrop - dot files manager [https://github.com/deadc0de6/dotdrop]
 * chezmoi - dot files manager [https://github.com/pimalaya/himalaya]
 * chafa - terminal picture viewer [https://hpjansson.org/chafa/]
 * erdtree - tree file viewer and space analyzer [https://github.com/solidiquis/erdtree]
 * sleuth kit - kit for forensic analysis [https://www.sleuthkit.org/]
 * radare - portable reversing framework [https://rada.re/r/] [https://rada.re/n/]
-* Volatility – advanced memory forensics framework [https://volatilityfoundation.org/]
+* volatility – advanced memory forensics framework [https://volatilityfoundation.org/]
 * dcfldd - dd replacement oriented to forensics [https://dcfldd.sourceforge.net/]
 * jomon - network forensics and passive sniffer [https://github.com/jo-lund/jomon]
 * rdd – forensic copy software [https://sourceforge.net/projects/rdd/]
@@ -235,6 +237,11 @@ A list of linux tools I find interesting, mainly terminal tools but not only
 * tshark (aka wireshark-cli) - network traffic analyzer [https://tshark.dev/setup/install/]
 * argc - shell parameter manager similar to optget [https://github.com/sigoden/argc]
 * todo.txt - task list manager [https://github.com/todotxt/todo.txt-cli/]
+* zathura - pdf viewer for terminal [https://pwmt.org/projects/zathura/]
+* shellcheck - linter for bash [https://www.shellcheck.net/]
+* xmllint - linter for xml [https://www.baeldung.com/linux/xmllint]
+* bash-unit - unit testing for bash [https://github.com/TypedDevs/bashunit] [https://bashunit.typeddevs.com/]
+
 
 ## window managers
 
